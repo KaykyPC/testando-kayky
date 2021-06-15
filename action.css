@@ -1,0 +1,21 @@
+.th4yu {
+    display: inline-flex;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: "Fira Code", sans-serif;
+    font-weight: 500;
+    margin-right: 30px;
+  }
+  .th4yu::before {
+    content: "";
+    background-color: #df8155;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+  }
+  
+  
+  

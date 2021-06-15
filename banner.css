@@ -1,0 +1,28 @@
+.banner{
+    background-image: url(../../img6.gif);
+    background-repeat: no-repeat;
+    height: 800px;
+    background-size: cover;
+    border-bottom: 10px solid black;
+    padding-top: 115px;
+    padding-left: 90px;
+}
+
+
+.banner .wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 650px;
+   
+}
+
+.banner .box{
+    margin-bottom: 40px;
+}
+
+.banner .navigation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}

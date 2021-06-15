@@ -1,0 +1,19 @@
+.button {
+    transition: transform 200ms linear, opacity 200ms ease-in-out;
+    background-color: #df8155;
+    display: inline-block;
+    height: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 60px;
+    box-shadow: 5px 5px 0px #000000;
+    font-size: 20px;
+    color: white;
+   
+  }
+  
+  .button:hover {
+    /* opacity: 0.5; */
+    transform: scale(1.2);
+    color: #613f2b;
+  }  
